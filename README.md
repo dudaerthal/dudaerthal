@@ -1,6 +1,6 @@
 -👋🏼Oi! Eu sou a Eduarda Erthal!
 
--🖥️Sou aluna de Informática no IFSul - Sapucaia do Sul, e estou no meu último ano! Meus códigos (antigos e atuais) estão todos - ou quase todos - aqui!
+-🖥️Sou Técnica em Informática pelo IFSul - Sapucaia do Sul!
 
 <!---
 dudaerthal/dudaerthal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
